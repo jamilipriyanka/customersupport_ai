@@ -1,6 +1,6 @@
-# 🤖 SupportAI: Intelligent Customer Support Chatbot
+# 🤖 SupportAI:Customer Support Chatbot - Walmart
 
-SupportAI is an advanced AI-powered customer support solution that delivers automated, accurate, and personalized support experiences. Built to mimic human-like interactions, this chatbot helps businesses provide 24/7 customer service while reducing support costs and improving customer satisfaction.
+SupportAI is a customer support solution that delivers automated, accurate, and personalized support experiences. Built to mimic human-like interactions, this chatbot helps businesses provide 24/7 customer service while reducing support costs and improving customer satisfaction.
 
 **Live Demo:** [https://customersupport-ai-2.onrender.com](https://customersupport-ai-2.onrender.com)
 
@@ -118,7 +118,7 @@ sentence-transformers
 ## 📷 Demo Screenshots
 
 ### Initial Greeting
-![Walmart Assistant Initial Greeting](https://i.imgur.com/demo1.jpg)
+![Walmart Assistant Initial Greeting](C:\Users\DELL\Downloads\generalsupport_ai.jpg)
 
 ### Order Support Options
 ![Order Support Options](https://i.imgur.com/demo2.jpg)
@@ -134,22 +134,3 @@ sentence-transformers
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgements
-
-- OpenAI for their API and research in language models
-- React team for the frontend library
-- Tailwind CSS for the styling framework
-- PostgreSQL for the reliable database system
-- All open-source libraries that made this project possible
