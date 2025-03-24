@@ -14,9 +14,7 @@ SupportAI leverages natural language processing and machine learning techniques 
 - **Knowledge-Based Responses**: Provides accurate answers based on training data and web content
 - **Dynamic Web Scraping**: Automatically collects and processes information from specified websites
 - **Context-Aware Conversations**: Maintains conversation context for more coherent interactions
-- **Customizable Response Templates**: Adapts responses to match your brand's voice and style
 - **Category-Based Navigation**: Organizes support topics into intuitive categories for better user experience
-- **Human Agent Handoff**: Seamlessly transfers complex issues to human agents when needed
 - **Multilingual Support**: Capable of understanding and responding in multiple languages
 - **Scalable Architecture**: Handles multiple simultaneous conversations efficiently
 
@@ -34,7 +32,6 @@ SupportAI leverages natural language processing and machine learning techniques 
 - **Express**: A web application framework for Node.js
 - **OpenAI API**: For generating AI responses to user queries
 - **Drizzle ORM**: An ORM for interacting with PostgreSQL databases
-- **PostgreSQL**: A relational database management system
 - **Vite**: A build tool that provides a fast development environment
 
 ### Natural Language Processing
@@ -48,7 +45,6 @@ SupportAI leverages natural language processing and machine learning techniques 
 
 ### Prerequisites
 - Node.js 16+
-- PostgreSQL 13+
 - Git
 
 ### Installation Steps
@@ -127,9 +123,9 @@ sentence-transformers
 ![Store Locator](nearby_ai.jpg)
 
 ### General Support Options
-![General Support](generalsupport.jpg)
+![General Support](generalsupport_ai.jpg)
 
 ### Return and Credit Information
-![Return and Credit Information](https://i.imgur.com/demo5.jpg)
+![Returns](return_ai.jpg)
 
 
