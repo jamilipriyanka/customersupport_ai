@@ -118,16 +118,16 @@ sentence-transformers
 ## 📷 Demo Screenshots
 
 ### Initial Greeting
-![Walmart Assistant Initial Greeting](C:\Users\DELL\Downloads\generalsupport_ai.jpg)
+![Walmart Assistant Initial Greeting](greetings_ai.jpg)
 
 ### Order Support Options
-![Order Support Options](https://i.imgur.com/demo2.jpg)
+![Order Support Options](orders_ai.jpg)
 
 ### Store Locator
-![Store Locator](https://i.imgur.com/demo3.jpg)
+![Store Locator](nearby_ai.jpg)
 
 ### General Support Options
-![General Support](https://i.imgur.com/demo4.jpg)
+![General Support](generalsupport.jpg)
 
 ### Return and Credit Information
 ![Return and Credit Information](https://i.imgur.com/demo5.jpg)
