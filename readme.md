@@ -132,5 +132,4 @@ sentence-transformers
 ### Return and Credit Information
 ![Return and Credit Information](https://i.imgur.com/demo5.jpg)
 
-## 🤝 Contributing
 
